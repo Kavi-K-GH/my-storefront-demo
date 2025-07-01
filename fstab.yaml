@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/Kavi-K-GH/my-storefront-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
